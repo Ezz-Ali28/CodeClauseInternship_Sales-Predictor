@@ -1,2 +1,2 @@
-# Sales_prediction
+# CodeClauseInternship_Sales Predictor
  
